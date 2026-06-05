@@ -1,0 +1,7 @@
+config.ini
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.*.json
+/var/log/
